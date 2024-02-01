@@ -1,6 +1,6 @@
 # Realm TTRPG system
 
-A system of applications for facilitating the play and administration of
+A suite of applications for facilitating the play and administration of
 [tabletop roleplaying games][]
 
 ## Applications
