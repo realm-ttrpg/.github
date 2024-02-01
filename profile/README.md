@@ -5,11 +5,18 @@ A suite of applications for facilitating the play and administration of
 
 [🎉 MVP project board][]
 
-## Applications
+## Suite
+
+### Applications
 
 - [API server][]
 - [Discord bot][]
 - [Web interface][]
+
+### Other
+
+- Shared IPC schema
+- `docker compose` quickstart kit
 
 [🎉 mvp project board]: https://github.com/orgs/realm-ttrpg/projects/1
 [api server]: https://github.com/realm-ttrpg/api-server
