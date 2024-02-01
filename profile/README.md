@@ -5,9 +5,9 @@ A system of applications for facilitating the play and administration of
 
 ## Applications
 
+- [API server][]
 - [Discord bot][]
 - [Web interface][]
-- [API server][]
 
 [api server]: https://github.com/realm-ttrpg/api-server
 [discord bot]: https://github.com/realm-ttrpg/discord-bot
