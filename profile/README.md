@@ -5,8 +5,8 @@ A suite of applications for facilitating the play and administration of
 
 ![banner](https://raw.githubusercontent.com/realm-ttrpg/.github/assets/banner.jpg)
 
-[🎉 MVP project board][]
-[Prototype web application][]
+- [🎉 MVP project board][]
+- [Prototype web application][]
 
 ## Suite
 
