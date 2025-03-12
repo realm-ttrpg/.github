@@ -18,11 +18,11 @@ A suite of applications for facilitating the play and administration of
 
 ### Other
 
-- [`docker compose` quickstart kit][]
+- [Docker quickstart kit][]
 - [Shared schema][]
 
 [🎉 mvp project board]: https://github.com/orgs/realm-ttrpg/projects/1
-[`docker compose` quickstart kit]: https://github.com/realm-ttrpg/docker-compose
+[docker quickstart kit]: https://github.com/realm-ttrpg/docker-compose
 [api server]: https://github.com/realm-ttrpg/api-server
 [discord bot]: https://github.com/realm-ttrpg/discord-bot
 [prototype web application]: https://realmttrpg.com
