@@ -1,7 +1,7 @@
 # Realm TTRPG suite
 
 A suite of applications for facilitating the play and administration of
-[tabletop roleplaying games][]
+[tabletop roleplaying games](https://en.wikipedia.org/wiki/Tabletop_role-playing_game)
 
 ![banner](https://raw.githubusercontent.com/realm-ttrpg/.github/assets/banner.jpg)
 
